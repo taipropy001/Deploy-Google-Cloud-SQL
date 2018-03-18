@@ -192,7 +192,7 @@
             <plugin>
 		        <groupId>com.google.cloud.tools</groupId>
 		        <artifactId>appengine-maven-plugin</artifactId>
-		        <version>1.2.1</version>
+		        <version>1.3.1</version>
 		     </plugin>
             <plugin>
                 <artifactId>maven-failsafe-plugin</artifactId>
@@ -214,13 +214,13 @@
 					<version>2.4</version>
 					<configuration>
 						<warSourceDirectory>src/main/webapp</warSourceDirectory>
-						<warName>nguyenvanphituoc-14110434</warName>
+						<warName>ttt</warName>
 						
 					</configuration>
 				</plugin>
 			</plugins>
 		</pluginManagement>
-		<finalName>nguyenvanphituoc-14110434</finalName>
+		<finalName>ttt</finalName>
     </build>
 
 </project>
